@@ -19,7 +19,7 @@ I have hands-on experience **building full-stack web applications** and working 
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Python  
+- **Languages:** JavaScript, Python, TypeScript
 - **Frontend:** React.js, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express.js, FastAPI  
 - **Databases:** MongoDB, PostgreSQL  
